@@ -1,7 +1,8 @@
 # Openloop Bot
 Openloop bot is a simple tool designed to automate the node interaction.
 
-Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
+Join Openloop - https://openloop.so/auth/register?ref=olef373b12
+Openloop Code - olef373b12
 
 ## Features
 - **Automated node interaction**
@@ -16,11 +17,11 @@ Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Openloop.git
+   git clone https://github.com/ibrahimsyahp/Openloop-bot.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Openloop
+   cd Openloop-bot
    ```
 4. Install the necessary dependencies:
    ```bash
@@ -63,12 +64,10 @@ And Select Options As per Your Need
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Note
-This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
+Using this script might violates ToS and may get your account permanently banned.
 
-Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
-Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
 
 My reff code if you want to use :) : 
 ```bash
-old8c00c36
+olef373b12
 ```
